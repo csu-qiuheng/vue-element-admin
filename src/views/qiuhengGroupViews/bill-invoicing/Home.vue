@@ -241,7 +241,7 @@ export default {
 .demo-table-expand label {
   width: 90px;
   color: #99a9bf;
-}
+}n
 .demo-table-expand .el-form-item {
   margin-right: 0;
   margin-bottom: 0;
